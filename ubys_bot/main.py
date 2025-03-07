@@ -7,6 +7,7 @@ import users
 import telegram
 sys.stdout.reconfigure(encoding="utf-8")
 
+print("Application started")
 class Manager:
     def __init__(self, name, password, sapid):
         self.name = name
