@@ -1,1 +1,1 @@
-worker: ubys_bot main.py
+worker: python main.py
