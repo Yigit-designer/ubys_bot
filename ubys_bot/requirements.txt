@@ -1,5 +1,0 @@
-sys
-requests
-time
-os
-BeatifulSoup
